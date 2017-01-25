@@ -28,7 +28,7 @@ System.out.println("Veuillez saisir un mot :");
 int str = sc.nextInt();
 
 System.out.println("Vous avez saisi : " + str);*/
-        double i = (int)1000000;
+        double i = (int)1979;
         System.out.println(i);
     }
 }
